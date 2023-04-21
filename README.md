@@ -1,5 +1,5 @@
 # DBMS-PROJECT
-**Tourist inn reservation system**🧳✈️🖼️
+**Tourist inn management system**🧳✈️🖼️
 
 👩‍💻It was part of my college project , Basically it is a simple project , wherein a user can book the travelling packages.
 It manage the details of Customer, Hotel Booking, Cancellation and Tourism places.
